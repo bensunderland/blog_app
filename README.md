@@ -21,11 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-# blog_app
-# blog_app
-# blog_app
-# blog_app
-# blog_app
-# blog_app
 # blog_app
